@@ -1,4 +1,4 @@
-Joined acc of Ysa and Mur
+Just a 17 year old trying to become a programmer
 
 <!---
 AzmayenMurshid/AzmayenMurshid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

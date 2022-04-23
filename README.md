@@ -10,7 +10,7 @@ I am a high school student who has a passion for full-stack development, machine
 * 🖥️  See my portfolio at [Mur](http://official-az-m.vercel.app/)
 * ✉️  You can contact me at [azmayen.murshid@gmail.com](mailto:azmayen.murshid@gmail.com)
 * 🚀  I'm currently working on [Texter](http://github.com/AzmayenMurshid/Texter)
-* 🧠  I'm learning React.js
+* 🧠  I'm learning Vue.js
 * 🤝  I'm open to collaborating on Frontend web development
 
 <a href="https://www.twitter.com/0fficial_azm" target="_blank" rel="noreferrer"><img

@@ -7,7 +7,7 @@ Computer Science student
 I am a high school student who has a passion for full-stack development, machine Learning, Ai-human interactions, and everything in between.
 
 * 🌍  I'm based in Lubbock, TX 
-* 🖥️  See my portfolio at [Repositories]([https://github.com/AzmayenMurshid?tab=repositories))
+* 🖥️  See my portfolio at [Repositories](https://github.com/AzmayenMurshid?tab=repositories)
 * ✉️  You can contact me at [azmayen.murshid@gmail.com](mailto:azmayen.murshid@gmail.com)
 * 🚀  I'm currently working on [Texter](http://github.com/AzmayenMurshid/Texter)
 * 🧠  I'm learning Vue.js

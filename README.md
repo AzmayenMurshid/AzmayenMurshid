@@ -9,7 +9,7 @@ I am a high school student who has a passion for full-stack development, machine
 * 🌍  I'm based in Houston, TX 
 * 🖥️  See my portfolio at [Repositories](https://github.com/AzmayenMurshid?tab=repositories)
 * ✉️  You can contact me at [azmayen.murshid@gmail.com](mailto:azmayen.murshid@gmail.com)
-* 🚀  I'm currently working on [Texter](http://github.com/AzmayenMurshid/Texter)
+* 🚀  I'm currently working on [NuPeer](http://github.com/AzmayenMurshid/NuPeer)
 * 🧠  I'm focusing on BSc at UofH
 * 🤝  I'm open to collaborating on new projects
 
